@@ -1,0 +1,14 @@
+{
+  "name": "Fazt_OneCompany",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FabianNCDev/Fazt_OneCompany",
+  "author": "fazt <fabianncdev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
